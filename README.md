@@ -49,7 +49,7 @@ cd ports/atmel-samd/
 make BOARD=empyrean-alpha
 ```
 
-To test the board, copy over blink.py as main.py into Empyrean's CIRCUITPY 
+To test the board, copy over blink.py as main.py into Empyrean's new CIRCUITPY 
 drive.
 
 
