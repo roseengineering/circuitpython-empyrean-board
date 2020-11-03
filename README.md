@@ -19,7 +19,7 @@ external flash and used the same MCU.
 
 I modified the pin mapping
 located in the pins.c file to conform to the Empyrean schematic.
-The file mpconfigboard.c also contains few pin mappings.
+The file mpconfigboard.c also contains a few pin mappings.
 In it, I remapped the I2C pins.  The rest were unchanged.  The Empyrean
 board name and MCU name were set in files mpconfigboard.mk and mpconfigboard.h.
 The mpconfigboard.mk file contained additional settings
