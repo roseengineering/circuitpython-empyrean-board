@@ -37,7 +37,7 @@ it breaks the cross compilation phase. I recommend gcc version 8.
 ```bash
 {open("empyrean-alpha.sh").read()}```
 
-To test the board, copy blink.py as main.py into Empyrean's CIRCUITPY 
+To test the board, copy over blink.py as main.py into Empyrean's CIRCUITPY 
 drive.
 
 """)
